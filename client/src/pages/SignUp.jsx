@@ -48,7 +48,7 @@ const SignUp = () => {
                 {' '}Blog
             </Link>
             <p className='text-sm mt-5'>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis obcaecati esse, velit minus voluptatibus quis, perferendis id reiciendis
+              Sign up with your email or continue with Google
             </p>
         </div>
         
